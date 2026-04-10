@@ -1,11 +1,11 @@
-# 🚗 Sistema de Estacionamento
+# Sistema de Estacionamento
 
 Projeto acadêmico e de portfólio para gerenciamento de estacionamento de veículos, desenvolvido em **Node.js** com separação entre **Front-End** e **Back-End**.
 O objetivo é praticar **organização de projetos**, **versionamento com Git/GitHub** e uso de **dependências modernas**.
 
 ---
 
-# 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```
 Estacionamento/
@@ -32,7 +32,7 @@ Estacionamento/
 
 ---
 
-# 🚀 Instalação
+# Instalação
 
 ## 1. Clonar o repositório
 
@@ -58,7 +58,7 @@ npm install
 
 ---
 
-# 📦 Dependências utilizadas
+# Dependências utilizadas
 
 * **express** → framework para criação de rotas e servidor
 * **nodemon** → reinicialização automática em desenvolvimento
@@ -76,7 +76,7 @@ npm install -g nodemon
 
 ---
 
-# ▶️ Como rodar o projeto
+# Como rodar o projeto
 
 ## Ambiente de desenvolvimento
 
@@ -92,7 +92,7 @@ npm start
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 * Node.js
 * Express
@@ -103,7 +103,7 @@ npm start
 
 ---
 
-# 📖 Commits Semânticos
+# Commits Semânticos
 
 O projeto segue o padrão de **commits semânticos**:
 
@@ -123,7 +123,7 @@ git commit -m "feat: adicionar estrutura inicial do BackEnd"
 
 ---
 
-# 📌 Observações
+# Observações
 
 * A pasta **node_modules** não é versionada (controlada pelo `.gitignore`).
 * Para rodar o projeto em qualquer máquina, basta **clonar o repositório** e executar:
